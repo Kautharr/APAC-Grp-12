@@ -1,0 +1,7 @@
+Time,OrderID,Instrument,Quantity,Client,Price,Side,Rating,Currencies,PositionCheck,LotSize,Instrument_Valid,RejectionReason,Currency_Valid,Lotsize_valid,Position_Valid
+11:10:00,B4,SIA,100,B,Market,Sell,2,"USD,SGD,JPY",N,100,TRUE,,TRUE,TRUE,TRUE
+13:50:00,B5,SIA,1000,B,31,Sell,2,"USD,SGD,JPY",N,100,TRUE,,TRUE,TRUE,TRUE
+9:29:02,E1,SIA,1000,E,32,Sell,5,SGD,N,100,TRUE,,TRUE,TRUE,TRUE
+9:02:00,B1,SIA,4500,B,32.1,Sell,2,"USD,SGD,JPY",N,100,TRUE,,TRUE,TRUE,TRUE
+16:01:00,B6,SIA,100,B,32.1,Sell,2,"USD,SGD,JPY",N,100,TRUE,,TRUE,TRUE,TRUE
+9:40:00,B3,SIA,500,B,32.2,Sell,2,"USD,SGD,JPY",N,100,TRUE,,TRUE,TRUE,TRUE
